@@ -1,0 +1,24 @@
+{
+  "name": "react-native-emptyview",
+  "version": "1.0.0",
+  "description": "Component for showing empty views whenever there is not content to display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frangeris/react-native-emptyview.git"
+  },
+  "keywords": [
+    "react-native",
+    "emptyviews",
+    "emptyset"
+  ],
+  "author": "Frangeris Peguero <frangeris.20@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frangeris/react-native-emptyview/issues"
+  },
+  "homepage": "https://github.com/frangeris/react-native-emptyview#readme"
+}
